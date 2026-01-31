@@ -1,8 +1,8 @@
 ## <div align='center'>Delta - API de WhatsApp Web</div>
 
 <p align="center">
-  <a href="https://github.com/LuisCheats">
-    <img src="https://github.com/LuisCheats" width="130" height="130" alt="7Noonly ꕤ"/>
+  <a href="https://github.com/Arlette-Xz">
+    <img src="https://github.com/7Noonly" width="130" height="130" alt="7Noonly ꕤ"/>
     <br>
     <strong>7Noonly</strong>
   </a>
