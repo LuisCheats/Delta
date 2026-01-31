@@ -1,12 +1,15 @@
 ## <div align='center'>Delta - API de WhatsApp Web</div>
 
+## ꕤ Desarrolladora Principal
+
 <p align="center">
-  <a href="https://github.com/LuisCheats">
-    <img src="https://github.com/LuisCheats" width="130" height="130" alt="7Noonly"/>
+  <a href="https://github.com/Arlette-Xz">
+    <img src="https://github.com/Arlette-Xz.png" width="130" height="130" alt="Arlette-Xz ꕤ"/>
     <br>
-    <strong>7Noonly</strong>
+    <strong>Arlette-Xz</strong>
   </a>
 </p>
+
   
 ## Nota Importante
 
