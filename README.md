@@ -1,10 +1,9 @@
 ## <div align='center'>Delta - API de WhatsApp Web</div>
 
-## ꕤ Desarrolladora Principal
 
 <p align="center">
-  <a href="https://github.com/Arlette-Xz">
-    <img src="https://github.com/Arlette-Xz.png" width="130" height="130" alt="Arlette-Xz ꕤ"/>
+  <a href="https://github.com/LuisCheats">
+    <img src="https://github.com/LuisCheats.png" width="130" height="130" alt="7Noonly †"/>
     <br>
     <strong>Arlette-Xz</strong>
   </a>
@@ -13,10 +12,10 @@
   
 ## Nota Importante
 
-† Esta librería está basada en Baileys y ha sido personalizada con mucho amor por 7Noonly. No está afiliada con WhatsApp.
+† Esta librería está basada en Baileys y ha sido personalizada con mucho por 7Noonly. No está afiliada con WhatsApp.
 
 ---
 
-## <div align="center">Powered by 7Noonly Xz ✰
+## <div align="center">Powered by 7Noonly †
 
 </div>
