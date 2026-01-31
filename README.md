@@ -1,11 +1,11 @@
-## <div align='center'>@7Noonly/Delta - API de WhatsApp Web</div>
+## <div align='center'>@7Noonly-Xz/Delta - API de WhatsApp Web</div>
 
-<div align="center"><img src="" alt="My Melody" width="300" style="border-radius: 20px;"/>
+<div align="center"><img src="https://github.com/LuisCheats" alt="My 7Noonly" width="300" style="border-radius: 20px;"/>
 
   
 ## Nota Importante
 
-ꕤ Esta librería está basada en Baileys y ha sido personalizada con mucho amor por Melody. No está afiliada con WhatsApp.
+ꕤ Esta librería está basada en Baileys y ha sido personalizada con mucho amor por 7Noonly. No está afiliada con WhatsApp.
 
 ## Aviso de Responsabilidad
 
@@ -209,7 +209,7 @@ melody.ev.on('messages.upsert', async ({ messages }) => {
     
     if(text === '!hola') {
         await melody.sendMessage(m.key.remoteJid!, {
-            text: '¡Hola! Soy My Melody, ¿en qué puedo ayudarte?'
+            text: '¡Hola! Soy My 7Noonly, ¿en qué puedo ayudarte?'
         })
     }
 })
@@ -280,6 +280,6 @@ function handleMessage(message: WAMessage): void {
 
 ---
 
-## <div align="center">Powered by Melody Xz ✰
+## <div align="center">Powered by 7Noonly Xz ✰
 
 </div>
