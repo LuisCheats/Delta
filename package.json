@@ -1,10 +1,10 @@
 {
   "name": "Delta",
   "version": "1.4.5",
-  "description": "Baileys By Melody Xz",
+  "description": "Baileys By 7Noonly",
   "keywords": [
     "baileys",
-    "melody",
+    "7Noonly",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
@@ -12,10 +12,10 @@
   ],
   "homepage": "",
   "repository": {
-    "url": "https://github.com/Melody-Xz/Delta"
+    "url": "https://github.com/7Noonly/Delta"
   },
   "license": "MIT",
-  "author": "Melody Xz",
+  "author": "7Noonly",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
