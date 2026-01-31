@@ -12,7 +12,7 @@
   
 ## Nota Importante
 
-† Esta librería está basada en Baileys y ha sido personalizada con mucho por 7Noonly. No está afiliada con WhatsApp.
+† Esta librería está basada en Baileys y ha sido personalizada por 7Noonly. No está afiliada con WhatsApp.
 
 ---
 
