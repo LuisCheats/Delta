@@ -1,6 +1,6 @@
-## <div align='center'>@Melody-Xz/Delta - API de WhatsApp Web</div>
+## <div align='center'>@7Noonly/Delta - API de WhatsApp Web</div>
 
-<div align="center"><img src="https://nexy-ar7z.b-cdn.net/storage/b99a0660.jpg" alt="My Melody" width="300" style="border-radius: 20px;"/>
+<div align="center"><img src="" alt="My Melody" width="300" style="border-radius: 20px;"/>
 
   
 ## Nota Importante
