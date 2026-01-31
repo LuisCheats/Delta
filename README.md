@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/LuisCheats">
-    <img src="https://github.com/LuisCheats" width="130" height="130" alt="7Noonly ꕤ"/>
+    <img src="https://github.com/LuisCheats" width="130" height="130" alt="7Noonly"/>
     <br>
     <strong>7Noonly</strong>
   </a>
