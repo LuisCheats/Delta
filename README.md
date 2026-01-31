@@ -1,7 +1,12 @@
 ## <div align='center'>@7Noonly-Xz/Delta - API de WhatsApp Web</div>
 
-<div align="center"><img src="https://github.com/LuisCheats" alt="My 7Noonly" width="300" style="border-radius: 20px;"/>
-
+<p align="center">
+  <a href="https://github.com/Arlette-Xz">
+    <img src="https://github.com/Arlette-Xz.png" width="130" height="130" alt="Arlette-Xz ꕤ"/>
+    <br>
+    <strong>Arlette-Xz</strong>
+  </a>
+</p>
   
 ## Nota Importante
 
